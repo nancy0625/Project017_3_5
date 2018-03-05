@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Support international</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="login_button">Login</string>
+
+
+</resources>
